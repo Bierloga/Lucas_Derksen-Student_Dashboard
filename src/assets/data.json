@@ -1,0 +1,3456 @@
+{
+    "assignmentData": [
+        {
+            "student": "Evelyn",
+            "assignment": "SCRUM",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W1D1-1",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W1D2-1",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W1D2-2",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W1D2-3",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W1D2-4",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W1D2-5",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W1D3-1",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W1D3-2",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W1D3-4",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W1D3-5",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W1D3",
+            "difficulty": 5,
+            "fun": 5
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W1D4-1",
+            "difficulty": 4,
+            "fun": 5
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W1D4",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W1D5",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W2D1-1",
+            "difficulty": 1,
+            "fun": 5
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W2D1-2",
+            "difficulty": 2,
+            "fun": 5
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W2D2-1",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W2D2-2",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W2D2-3",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W2D3-1",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W2D3-2",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W2D3-3",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W2D4-1",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W2D4-2",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W2D4-3",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W2D5",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W3D1-1",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W3D1-2",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W3D1-3",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W3D1-4",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W3D2-1",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W3D2-2",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W3D2-3",
+            "difficulty": 3,
+            "fun": 5
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W3D3-1",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W3D3-2",
+            "difficulty": 4,
+            "fun": 5
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W3D3-3",
+            "difficulty": 3,
+            "fun": 5
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W3D3-4",
+            "difficulty": 4,
+            "fun": 5
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W3D4-1",
+            "difficulty": 5,
+            "fun": 5
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W3D4-2",
+            "difficulty": 1,
+            "fun": 5
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W3D5",
+            "difficulty": 2,
+            "fun": 5
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W4D2-1",
+            "difficulty": 1,
+            "fun": 5
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W4D2-2",
+            "difficulty": 1,
+            "fun": 5
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W4D2-3",
+            "difficulty": 1,
+            "fun": 5
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W4D2-4",
+            "difficulty": 1,
+            "fun": 5
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W4D3-1",
+            "difficulty": 1,
+            "fun": 5
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W4D3-2",
+            "difficulty": 1,
+            "fun": 5
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W4D3-3",
+            "difficulty": 1,
+            "fun": 5
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W4D3-4",
+            "difficulty": 1,
+            "fun": 5
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W4D3-5",
+            "difficulty": 1,
+            "fun": 5
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W4D3",
+            "difficulty": 1,
+            "fun": 5
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W5D4-1",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W5D5",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W6D1-1",
+            "difficulty": 5,
+            "fun": 5
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W6D2-1",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Evelyn",
+            "assignment": "W6D2",
+            "difficulty": 5,
+            "fun": 5
+        },
+        {
+            "student": "Aranka",
+            "assignment": "SCRUM",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W1D1-1",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W1D2-1",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W1D2-2",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W1D2-3",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W1D2-4",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W1D2-5",
+            "difficulty": 4,
+            "fun": 2
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W1D3-1",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W1D3-2",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W1D3-4",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W1D3-5",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W1D3",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W1D4-1",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W1D4",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W1D5",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W2D1-1",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W2D1-2",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W2D2-1",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W2D2-2",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W2D2-3",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W2D3-1",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W2D3-2",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W2D3-3",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W2D4-1",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W2D4-2",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W2D4-3",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W2D5",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W3D1-1",
+            "difficulty": 4,
+            "fun": 2
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W3D1-2",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W3D1-3",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W3D1-4",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W3D2-1",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W3D2-2",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W3D2-3",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W3D3-1",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W3D3-2",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W3D3-3",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W3D3-4",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W3D4-1",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W3D4-2",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W3D5",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W4D2-1",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W4D2-2",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W4D2-3",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W4D2-4",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W4D3-1",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W4D3-2",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W4D3-3",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W4D3-4",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W4D3-5",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W4D3",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W5D4-1",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W5D5",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W6D1-1",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W6D2-1",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Aranka",
+            "assignment": "W6D2",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Floris",
+            "assignment": "SCRUM",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Floris",
+            "assignment": "W1D1-1",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Floris",
+            "assignment": "W1D2-1",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Floris",
+            "assignment": "W1D2-2",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Floris",
+            "assignment": "W1D2-3",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Floris",
+            "assignment": "W1D2-4",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Floris",
+            "assignment": "W1D2-5",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Floris",
+            "assignment": "W1D3-1",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Floris",
+            "assignment": "W1D3-2",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Floris",
+            "assignment": "W1D3-4",
+            "difficulty": 4,
+            "fun": 2
+        },
+        {
+            "student": "Floris",
+            "assignment": "W1D3-5",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Floris",
+            "assignment": "W1D3",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Floris",
+            "assignment": "W1D4-1",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Floris",
+            "assignment": "W1D4",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Floris",
+            "assignment": "W1D5",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Floris",
+            "assignment": "W2D1-1",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Floris",
+            "assignment": "W2D1-2",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Floris",
+            "assignment": "W2D2-1",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Floris",
+            "assignment": "W2D2-2",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Floris",
+            "assignment": "W2D2-3",
+            "difficulty": 4,
+            "fun": 2
+        },
+        {
+            "student": "Floris",
+            "assignment": "W2D3-1",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Floris",
+            "assignment": "W2D3-2",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Floris",
+            "assignment": "W2D3-3",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Floris",
+            "assignment": "W2D4-1",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Floris",
+            "assignment": "W2D4-2",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Floris",
+            "assignment": "W2D4-3",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Floris",
+            "assignment": "W2D5",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Floris",
+            "assignment": "W3D1-1",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Floris",
+            "assignment": "W3D1-2",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Floris",
+            "assignment": "W3D1-3",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Floris",
+            "assignment": "W3D1-4",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Floris",
+            "assignment": "W3D2-1",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Floris",
+            "assignment": "W3D2-2",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Floris",
+            "assignment": "W3D2-3",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Floris",
+            "assignment": "W3D3-1",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Floris",
+            "assignment": "W3D3-2",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Floris",
+            "assignment": "W3D3-3",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Floris",
+            "assignment": "W3D3-4",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Floris",
+            "assignment": "W3D4-1",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Floris",
+            "assignment": "W3D4-2",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Floris",
+            "assignment": "W3D5",
+            "difficulty": 4,
+            "fun": 2
+        },
+        {
+            "student": "Floris",
+            "assignment": "W4D2-1",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Floris",
+            "assignment": "W4D2-2",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Floris",
+            "assignment": "W4D2-3",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Floris",
+            "assignment": "W4D2-4",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Floris",
+            "assignment": "W4D3-1",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Floris",
+            "assignment": "W4D3-2",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Floris",
+            "assignment": "W4D3-3",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Floris",
+            "assignment": "W4D3-4",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Floris",
+            "assignment": "W4D3-5",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Floris",
+            "assignment": "W4D3",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Floris",
+            "assignment": "W5D4-1",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Floris",
+            "assignment": "W5D5",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Floris",
+            "assignment": "W6D1-1",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Floris",
+            "assignment": "W6D2-1",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Floris",
+            "assignment": "W6D2",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Hector",
+            "assignment": "SCRUM",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Hector",
+            "assignment": "W1D1-1",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Hector",
+            "assignment": "W1D2-1",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Hector",
+            "assignment": "W1D2-2",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Hector",
+            "assignment": "W1D2-3",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Hector",
+            "assignment": "W1D2-4",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Hector",
+            "assignment": "W1D2-5",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Hector",
+            "assignment": "W1D3-1",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Hector",
+            "assignment": "W1D3-2",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Hector",
+            "assignment": "W1D3-4",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Hector",
+            "assignment": "W1D3-5",
+            "difficulty": 4,
+            "fun": 2
+        },
+        {
+            "student": "Hector",
+            "assignment": "W1D3",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Hector",
+            "assignment": "W1D4-1",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Hector",
+            "assignment": "W1D4",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Hector",
+            "assignment": "W1D5",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Hector",
+            "assignment": "W2D1-1",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Hector",
+            "assignment": "W2D1-2",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Hector",
+            "assignment": "W2D2-1",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Hector",
+            "assignment": "W2D2-2",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Hector",
+            "assignment": "W2D2-3",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Hector",
+            "assignment": "W2D3-1",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Hector",
+            "assignment": "W2D3-2",
+            "difficulty": 4,
+            "fun": 2
+        },
+        {
+            "student": "Hector",
+            "assignment": "W2D3-3",
+            "difficulty": 4,
+            "fun": 2
+        },
+        {
+            "student": "Hector",
+            "assignment": "W2D4-1",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Hector",
+            "assignment": "W2D4-2",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Hector",
+            "assignment": "W2D4-3",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Hector",
+            "assignment": "W2D5",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Hector",
+            "assignment": "W3D1-1",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Hector",
+            "assignment": "W3D1-2",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Hector",
+            "assignment": "W3D1-3",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Hector",
+            "assignment": "W3D1-4",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Hector",
+            "assignment": "W3D2-1",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Hector",
+            "assignment": "W3D2-2",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Hector",
+            "assignment": "W3D2-3",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Hector",
+            "assignment": "W3D3-1",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Hector",
+            "assignment": "W3D3-2",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Hector",
+            "assignment": "W3D3-3",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Hector",
+            "assignment": "W3D3-4",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Hector",
+            "assignment": "W3D4-1",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Hector",
+            "assignment": "W3D4-2",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Hector",
+            "assignment": "W3D5",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Hector",
+            "assignment": "W4D2-1",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Hector",
+            "assignment": "W4D2-2",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Hector",
+            "assignment": "W4D2-3",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Hector",
+            "assignment": "W4D2-4",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Hector",
+            "assignment": "W4D3-1",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Hector",
+            "assignment": "W4D3-2",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Hector",
+            "assignment": "W4D3-3",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Hector",
+            "assignment": "W4D3-4",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Hector",
+            "assignment": "W4D3-5",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Hector",
+            "assignment": "W4D3",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Hector",
+            "assignment": "W5D4-1",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Hector",
+            "assignment": "W5D5",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Hector",
+            "assignment": "W6D1-1",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Hector",
+            "assignment": "W6D2-1",
+            "difficulty": 4,
+            "fun": 2
+        },
+        {
+            "student": "Hector",
+            "assignment": "W6D2",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Martina",
+            "assignment": "SCRUM",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Martina",
+            "assignment": "W1D1-1",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Martina",
+            "assignment": "W1D2-1",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Martina",
+            "assignment": "W1D2-2",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Martina",
+            "assignment": "W1D2-3",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Martina",
+            "assignment": "W1D2-4",
+            "difficulty": 4,
+            "fun": 2
+        },
+        {
+            "student": "Martina",
+            "assignment": "W1D2-5",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Martina",
+            "assignment": "W1D3-1",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Martina",
+            "assignment": "W1D3-2",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Martina",
+            "assignment": "W1D3-4",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Martina",
+            "assignment": "W1D3-5",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Martina",
+            "assignment": "W1D3",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Martina",
+            "assignment": "W1D4-1",
+            "difficulty": 4,
+            "fun": 2
+        },
+        {
+            "student": "Martina",
+            "assignment": "W1D4",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Martina",
+            "assignment": "W1D5",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Martina",
+            "assignment": "W2D1-1",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Martina",
+            "assignment": "W2D1-2",
+            "difficulty": 4,
+            "fun": 2
+        },
+        {
+            "student": "Martina",
+            "assignment": "W2D2-1",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Martina",
+            "assignment": "W2D2-2",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Martina",
+            "assignment": "W2D2-3",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Martina",
+            "assignment": "W2D3-1",
+            "difficulty": 4,
+            "fun": 2
+        },
+        {
+            "student": "Martina",
+            "assignment": "W2D3-2",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Martina",
+            "assignment": "W2D3-3",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Martina",
+            "assignment": "W2D4-1",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Martina",
+            "assignment": "W2D4-2",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Martina",
+            "assignment": "W2D4-3",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Martina",
+            "assignment": "W2D5",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Martina",
+            "assignment": "W3D1-1",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Martina",
+            "assignment": "W3D1-2",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Martina",
+            "assignment": "W3D1-3",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Martina",
+            "assignment": "W3D1-4",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Martina",
+            "assignment": "W3D2-1",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Martina",
+            "assignment": "W3D2-2",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Martina",
+            "assignment": "W3D2-3",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Martina",
+            "assignment": "W3D3-1",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Martina",
+            "assignment": "W3D3-2",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Martina",
+            "assignment": "W3D3-3",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Martina",
+            "assignment": "W3D3-4",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Martina",
+            "assignment": "W3D4-1",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Martina",
+            "assignment": "W3D4-2",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Martina",
+            "assignment": "W3D5",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Martina",
+            "assignment": "W4D2-1",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Martina",
+            "assignment": "W4D2-2",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Martina",
+            "assignment": "W4D2-3",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Martina",
+            "assignment": "W4D2-4",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Martina",
+            "assignment": "W4D3-1",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Martina",
+            "assignment": "W4D3-2",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Martina",
+            "assignment": "W4D3-3",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Martina",
+            "assignment": "W4D3-4",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Martina",
+            "assignment": "W4D3-5",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Martina",
+            "assignment": "W4D3",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Martina",
+            "assignment": "W5D4-1",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Martina",
+            "assignment": "W5D5",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Martina",
+            "assignment": "W6D1-1",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Martina",
+            "assignment": "W6D2-1",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Martina",
+            "assignment": "W6D2",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Maurits",
+            "assignment": "SCRUM",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W1D1-1",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W1D2-1",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W1D2-2",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W1D2-3",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W1D2-4",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W1D2-5",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W1D3-1",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W1D3-2",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W1D3-4",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W1D3-5",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W1D3",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W1D4-1",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W1D4",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W1D5",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W2D1-1",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W2D1-2",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W2D2-1",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W2D2-2",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W2D2-3",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W2D3-1",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W2D3-2",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W2D3-3",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W2D4-1",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W2D4-2",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W2D4-3",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W2D5",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W3D1-1",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W3D1-2",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W3D1-3",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W3D1-4",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W3D2-1",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W3D2-2",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W3D2-3",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W3D3-1",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W3D3-2",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W3D3-3",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W3D3-4",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W3D4-1",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W3D4-2",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W3D5",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W4D2-1",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W4D2-2",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W4D2-3",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W4D2-4",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W4D3-1",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W4D3-2",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W4D3-3",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W4D3-4",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W4D3-5",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W4D3",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W5D4-1",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W5D5",
+            "difficulty": 4,
+            "fun": 2
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W6D1-1",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W6D2-1",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Maurits",
+            "assignment": "W6D2",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Rahima",
+            "assignment": "SCRUM",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W1D1-1",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W1D2-1",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W1D2-2",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W1D2-3",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W1D2-4",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W1D2-5",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W1D3-1",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W1D3-2",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W1D3-4",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W1D3-5",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W1D3",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W1D4-1",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W1D4",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W1D5",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W2D1-1",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W2D1-2",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W2D2-1",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W2D2-2",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W2D2-3",
+            "difficulty": 4,
+            "fun": 2
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W2D3-1",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W2D3-2",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W2D3-3",
+            "difficulty": 4,
+            "fun": 2
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W2D4-1",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W2D4-2",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W2D4-3",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W2D5",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W3D1-1",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W3D1-2",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W3D1-3",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W3D1-4",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W3D2-1",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W3D2-2",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W3D2-3",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W3D3-1",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W3D3-2",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W3D3-3",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W3D3-4",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W3D4-1",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W3D4-2",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W3D5",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W4D2-1",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W4D2-2",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W4D2-3",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W4D2-4",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W4D3-1",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W4D3-2",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W4D3-3",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W4D3-4",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W4D3-5",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W4D3",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W5D4-1",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W5D5",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W6D1-1",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W6D2-1",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Rahima",
+            "assignment": "W6D2",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Sandra",
+            "assignment": "SCRUM",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W1D1-1",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W1D2-1",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W1D2-2",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W1D2-3",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W1D2-4",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W1D2-5",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W1D3-1",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W1D3-2",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W1D3-4",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W1D3-5",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W1D3",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W1D4-1",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W1D4",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W1D5",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W2D1-1",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W2D1-2",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W2D2-1",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W2D2-2",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W2D2-3",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W2D3-1",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W2D3-2",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W2D3-3",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W2D4-1",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W2D4-2",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W2D4-3",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W2D5",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W3D1-1",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W3D1-2",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W3D1-3",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W3D1-4",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W3D2-1",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W3D2-2",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W3D2-3",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W3D3-1",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W3D3-2",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W3D3-3",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W3D3-4",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W3D4-1",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W3D4-2",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W3D5",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W4D2-1",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W4D2-2",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W4D2-3",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W4D2-4",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W4D3-1",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W4D3-2",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W4D3-3",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W4D3-4",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W4D3-5",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W4D3",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W5D4-1",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W5D5",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W6D1-1",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W6D2-1",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Sandra",
+            "assignment": "W6D2",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Wietske",
+            "assignment": "SCRUM",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W1D1-1",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W1D2-1",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W1D2-2",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W1D2-3",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W1D2-4",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W1D2-5",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W1D3-1",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W1D3-2",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W1D3-4",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W1D3-5",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W1D3",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W1D4-1",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W1D4",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W1D5",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W2D1-1",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W2D1-2",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W2D2-1",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W2D2-2",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W2D2-3",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W2D3-1",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W2D3-2",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W2D3-3",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W2D4-1",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W2D4-2",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W2D4-3",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W2D5",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W3D1-1",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W3D1-2",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W3D1-3",
+            "difficulty": 4,
+            "fun": 2
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W3D1-4",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W3D2-1",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W3D2-2",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W3D2-3",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W3D3-1",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W3D3-2",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W3D3-3",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W3D3-4",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W3D4-1",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W3D4-2",
+            "difficulty": 4,
+            "fun": 2
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W3D5",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W4D2-1",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W4D2-2",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W4D2-3",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W4D2-4",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W4D3-1",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W4D3-2",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W4D3-3",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W4D3-4",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W4D3-5",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W4D3",
+            "difficulty": 4,
+            "fun": 2
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W5D4-1",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W5D5",
+            "difficulty": 4,
+            "fun": 2
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W6D1-1",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W6D2-1",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Wietske",
+            "assignment": "W6D2",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Storm",
+            "assignment": "SCRUM",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Storm",
+            "assignment": "W1D1-1",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Storm",
+            "assignment": "W1D2-1",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Storm",
+            "assignment": "W1D2-2",
+            "difficulty": 1,
+            "fun": 3
+        },
+        {
+            "student": "Storm",
+            "assignment": "W1D2-3",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Storm",
+            "assignment": "W1D2-4",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Storm",
+            "assignment": "W1D2-5",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Storm",
+            "assignment": "W1D3-1",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Storm",
+            "assignment": "W1D3-2",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Storm",
+            "assignment": "W1D3-4",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Storm",
+            "assignment": "W1D3-5",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Storm",
+            "assignment": "W1D3",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Storm",
+            "assignment": "W1D4-1",
+            "difficulty": 4,
+            "fun": 2
+        },
+        {
+            "student": "Storm",
+            "assignment": "W1D4",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Storm",
+            "assignment": "W1D5",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Storm",
+            "assignment": "W2D1-1",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Storm",
+            "assignment": "W2D1-2",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Storm",
+            "assignment": "W2D2-1",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Storm",
+            "assignment": "W2D2-2",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Storm",
+            "assignment": "W2D2-3",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Storm",
+            "assignment": "W2D3-1",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Storm",
+            "assignment": "W2D3-2",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Storm",
+            "assignment": "W2D3-3",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Storm",
+            "assignment": "W2D4-1",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Storm",
+            "assignment": "W2D4-2",
+            "difficulty": 4,
+            "fun": 3
+        },
+        {
+            "student": "Storm",
+            "assignment": "W2D4-3",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Storm",
+            "assignment": "W2D5",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Storm",
+            "assignment": "W3D1-1",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Storm",
+            "assignment": "W3D1-2",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Storm",
+            "assignment": "W3D1-3",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Storm",
+            "assignment": "W3D1-4",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Storm",
+            "assignment": "W3D2-1",
+            "difficulty": 1,
+            "fun": 4
+        },
+        {
+            "student": "Storm",
+            "assignment": "W3D2-2",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Storm",
+            "assignment": "W3D2-3",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Storm",
+            "assignment": "W3D3-1",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Storm",
+            "assignment": "W3D3-2",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Storm",
+            "assignment": "W3D3-3",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Storm",
+            "assignment": "W3D3-4",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Storm",
+            "assignment": "W3D4-1",
+            "difficulty": 2,
+            "fun": 4
+        },
+        {
+            "student": "Storm",
+            "assignment": "W3D4-2",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Storm",
+            "assignment": "W3D5",
+            "difficulty": 3,
+            "fun": 2
+        },
+        {
+            "student": "Storm",
+            "assignment": "W4D2-1",
+            "difficulty": 2,
+            "fun": 1
+        },
+        {
+            "student": "Storm",
+            "assignment": "W4D2-2",
+            "difficulty": 3,
+            "fun": 3
+        },
+        {
+            "student": "Storm",
+            "assignment": "W4D2-3",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Storm",
+            "assignment": "W4D2-4",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Storm",
+            "assignment": "W4D3-1",
+            "difficulty": 3,
+            "fun": 4
+        },
+        {
+            "student": "Storm",
+            "assignment": "W4D3-2",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Storm",
+            "assignment": "W4D3-3",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Storm",
+            "assignment": "W4D3-4",
+            "difficulty": 3,
+            "fun": 1
+        },
+        {
+            "student": "Storm",
+            "assignment": "W4D3-5",
+            "difficulty": 2,
+            "fun": 3
+        },
+        {
+            "student": "Storm",
+            "assignment": "W4D3",
+            "difficulty": 4,
+            "fun": 1
+        },
+        {
+            "student": "Storm",
+            "assignment": "W5D4-1",
+            "difficulty": 2,
+            "fun": 2
+        },
+        {
+            "student": "Storm",
+            "assignment": "W5D5",
+            "difficulty": 1,
+            "fun": 2
+        },
+        {
+            "student": "Storm",
+            "assignment": "W6D1-1",
+            "difficulty": 4,
+            "fun": 4
+        },
+        {
+            "student": "Storm",
+            "assignment": "W6D2-1",
+            "difficulty": 1,
+            "fun": 1
+        },
+        {
+            "student": "Storm",
+            "assignment": "W6D2",
+            "difficulty": 3,
+            "fun": 3
+        }
+    ],
+    "students": [
+        {
+            "firstName": "Evelyn",
+            "lastName": "De Jager",
+            "age": "25",
+            "phoneNumber": "0612345678",
+            "email": "evelyn@wincacademy.nl",
+            "photoURL": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "studentID": "1"
+        },
+        {
+            "firstName": "Aranka",
+            "lastName": "Ivanova",
+            "age": "22",
+            "phoneNumber": "0623456789",
+            "email": "aranka@wincacademy.nl",
+            "photoURL": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "studentID": "2"
+        },
+        {
+            "firstName": "Floris",
+            "lastName": "Huisman",
+            "age": "28",
+            "phoneNumber": "0634567890",
+            "email": "floris@wincacademy.nl",
+            "photoURL": "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "studentID": "3"
+        },
+        {
+            "firstName": "Hector",
+            "lastName": "Sanchez",
+            "age": "33",
+            "phoneNumber": "0645678901",
+            "email": "hector@wincacademy.nl",
+            "photoURL": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "studentID": "4"
+        },
+        {
+            "firstName": "Martina",
+            "lastName": "Groefsma",
+            "age": "31",
+            "phoneNumber": "0656789012",
+            "email": "martina@wincacademy.nl",
+            "photoURL": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "studentID": "5"
+        },
+        {
+            "firstName": "Maurits",
+            "lastName": "Prins",
+            "age": "30",
+            "phoneNumber": "0667890123",
+            "email": "maurits@wincacademy.nl",
+            "photoURL": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "studentID": "6"
+        },
+        {
+            "firstName": "Rahima",
+            "lastName": "De Jong",
+            "age": "22",
+            "phoneNumber": "0678901234",
+            "email": "rahima@wincacademy.nl",
+            "photoURL": "https://images.unsplash.com/photo-1519895609939-d2a6491c1196?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
+            "studentID": "7"
+        },
+        {
+            "firstName": "Sandra",
+            "lastName": "Beer",
+            "age": "28",
+            "phoneNumber": "0689012345",
+            "email": "sandra@wincacademy.nl",
+            "photoURL": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=461&q=80",
+            "studentID": "8"
+        },
+        {
+            "firstName": "Wietske",
+            "lastName": "Jones",
+            "age": "33",
+            "phoneNumber": "0690123456",
+            "email": "wietske@wincacademy.nl",
+            "photoURL": "https://images.unsplash.com/photo-1504257432389-52343af06ae3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "studentID": "9"
+        },
+        {
+            "firstName": "Storm",
+            "lastName": "Daniels",
+            "age": "27",
+            "phoneNumber": "0601234567",
+            "email": "storm@wincacademy.nl",
+            "photoURL": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "studentID": "10"
+        }
+    ]
+}
