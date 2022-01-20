@@ -1,102 +1,138 @@
-import React from "react";
-import CreateAverageArray from "../Calculators/CreateAverageArray";
-import { VictoryAxis, VictoryBar, VictoryGroup, VictoryChart, VictoryLabel } from "victory";
+import React, { useState } from "react";
+import { VictoryAxis, VictoryBar, VictoryGroup, VictoryChart, VictoryLegend } from "victory";
+import CreateAssignmentArray from "../Calculators/CreateAssignmentArray";
 
-
-
-const MainChart = () => {
-    const rawData = CreateAverageArray()
-    const half = Math.ceil(rawData.length / 2)
-    const firstHalf = rawData.splice(0, half)
-    const secondHalf = rawData.splice(-half)
+const MainChart = (props) => {
+    const [showFun, setShowFun] = useState(true)
+    const [showDif, setShowDif] = useState(true)
+    const tickValues = CreateAssignmentArray()
+    const half = Math.ceil(tickValues.length / 2)
+    const firsthalfTick = tickValues.splice(0, half)
+    firsthalfTick.push("")
+    const secondHalfTick = tickValues.splice(-half)
+    secondHalfTick.push("")
     return (
-        <div className="testing">
-            <VictoryChart
-                height={250}
-                width={800}
-                animate={{ duration: 1000, onLoad: { duration: 250 } }}
-                style={{ background: { fill: "lightblue" } }}
-            >
-                <VictoryGroup
-                    offset={8}
-                    style={{ data: { stroke: "black", strokeWidth: 1 } }}>
-                    <VictoryBar
-                        data={firstHalf}
-                        x="assignment"
-                        y="averageFun"
-                        style={{ data: { fill: "darkblue" } }}
-                        alignment="start"
-                        barWidth={8}
+        <div>
+            <div>
+                <label>Remove Fun?</label><input type="checkbox" name="showFun" onChange={() => setShowFun(showFun => !showFun)}></input>
+                <label>Remove Difficulty?</label><input type="checkbox" name="showDif" onChange={() => setShowDif(showDif => !showDif)}></input>
+            </div>
+            <div className="testing">
+                <VictoryChart
+                    height={250}
+                    width={800}
+                    animate={{ duration: 1000, onLoad: { duration: 250 } }}
+                    style={{ background: { fill: "lightblue" } }}
+                >
+                    <VictoryAxis
+                        label="Assignments"
+                        style={{
+                            tickLabels: { angle: -60, fontSize: 8, padding: 15 },
+                            grid: { stroke: "#818e99", strokeWidth: 0.5 },
+                            axisLabel: { padding: 30 }
+                        }}
+                        tickValues={firsthalfTick}
                     />
-                    <VictoryBar
-                        data={firstHalf}
-                        x="assignment"
-                        y="averageDifficulty"
-                        style={{ data: { fill: "orange" } }}
-                        alignment="start"
-                        barWidth={8} />
-                </VictoryGroup>
-                <VictoryAxis
-                    label="Assignments"
-                    style={{
-                        tickLabels: { angle: -60, fontSize: 8, padding: 15 },
-                        grid: { stroke: "#818e99", strokeWidth: 0.5 },
-                        axisLabel: { padding: 30 }
-                    }}
-                />
-                <VictoryAxis
-                    dependentAxis
-                    label="Rating 0-5"
-                    style={{
-                        tickLabels: { fontSize: 8 },
-                        grid: { stroke: "#818e99", strokeWidth: 0.5 }
-                    }}
-                    domain={[0, 5]}
-                />
-            </VictoryChart>
-            <VictoryChart
-                height={250}
-                width={800}
-                animate={{ duration: 1000, onLoad: { duration: 250 } }}
-                style={{ background: { fill: "lightblue" } }}
-            >
-                <VictoryGroup
-                    offset={8}
-                    style={{ data: { stroke: "black", strokeWidth: 1 } }}>
-                    <VictoryBar
-                        data={secondHalf}
-                        x="assignment"
-                        y="averageFun"
-                        style={{ data: { fill: "darkblue" } }}
-                        alignment="start"
-                        barWidth={8}
+                    <VictoryAxis
+                        dependentAxis
+                        label="Rating 0-5"
+                        style={{
+                            tickLabels: { fontSize: 8 },
+                            grid: { stroke: "#818e99", strokeWidth: 0.5 }
+                        }}
+                        domain={[0, 5]}
                     />
-                    <VictoryBar
-                        data={secondHalf}
-                        x="assignment"
-                        y="averageDifficulty"
-                        style={{ data: { fill: "orange" } }}
-                        alignment="start"
-                        barWidth={8} />
-                </VictoryGroup>
-                <VictoryAxis
-                    label="Assignments"
-                    style={{
-                        tickLabels: { angle: -60, fontSize: 8, padding: 15 },
-                        grid: { stroke: "#818e99", strokeWidth: 0.5 },
-                        axisLabel: { padding: 30 }
-                    }}
-                />
-                <VictoryAxis
-                    dependentAxis
-                    label="Rating 0-5"
-                    style={{
-                        tickLabels: { fontSize: 8 },
-                        grid: { stroke: "#818e99", strokeWidth: 0.5 }
-                    }}
-                    domain={[0, 5]}
-                />
-            </VictoryChart>
+                    <VictoryLegend
+                        centerTitle
+                        data={[
+                            { name: "Fun", symbol: { fill: "darkblue" } },
+                            { name: "Difficulty", symbol: { fill: "orange" } }
+                        ]}
+                        orientation="horizontal"
+                        x={300}
+                        y={50}
+                    />
+
+                    <VictoryGroup
+                        offset={8}
+                        style={{ data: { stroke: "black", strokeWidth: 1 } }}>
+                        {showFun && <VictoryBar
+                            data={props.firstHalf}
+                            x="assignment"
+                            y="fun"
+                            style={{ data: { fill: "darkblue" } }}
+                            alignment="start"
+                            barWidth={8}
+                            cornerRadius={4}
+                        />}
+                        {showDif && <VictoryBar
+                            data={props.firstHalf}
+                            x="assignment"
+                            y="difficulty"
+                            style={{ data: { fill: "orange" } }}
+                            alignment="start"
+                            barWidth={8}
+                            cornerRadius={4} />}
+                    </VictoryGroup>
+
+                </VictoryChart>
+                <VictoryChart
+                    height={250}
+                    width={800}
+                    animate={{ duration: 1000, onLoad: { duration: 250 } }}
+                    style={{ background: { fill: "lightblue" } }}
+                >
+                    <VictoryAxis
+                        label="Assignments"
+                        style={{
+                            tickLabels: { angle: -60, fontSize: 8, padding: 15 },
+                            grid: { stroke: "#818e99", strokeWidth: 0.5 },
+                            axisLabel: { padding: 30 }
+                        }}
+                        tickValues={secondHalfTick}
+                    />
+                    <VictoryAxis
+                        dependentAxis
+                        label="Rating 0-5"
+                        style={{
+                            tickLabels: { fontSize: 8 },
+                            grid: { stroke: "#818e99", strokeWidth: 0.5 }
+                        }}
+                        domain={[0, 5]}
+                    />
+                    <VictoryLegend
+                        centerTitle
+                        data={[
+                            { name: "Fun", symbol: { fill: "darkblue" } },
+                            { name: "Difficulty", symbol: { fill: "orange" } }
+                        ]}
+                        orientation="horizontal"
+                        x={300}
+                        y={50}
+                    />
+                    <VictoryGroup
+                        offset={8}
+                        style={{ data: { stroke: "black", strokeWidth: 1 } }}>
+                        {showFun && <VictoryBar
+                            data={props.secondHalf}
+                            x="assignment"
+                            y="fun"
+                            style={{ data: { fill: "darkblue" } }}
+                            alignment="start"
+                            barWidth={8}
+                            cornerRadius={4}
+                        />}
+                        { showDif && <VictoryBar
+                            data={props.secondHalf}
+                            x="assignment"
+                            y="difficulty"
+                            style={{ data: { fill: "orange" } }}
+                            alignment="start"
+                            barWidth={8}
+                            cornerRadius={4} />}
+                    </VictoryGroup>
+                </VictoryChart>
+            </div>
         </div>
     );
 }

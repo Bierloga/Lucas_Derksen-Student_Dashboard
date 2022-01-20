@@ -1,6 +1,33 @@
-.testing {
-    width: 90%;
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.student-overview-container {
+    margin: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 30px;
+    justify-items: center;
+}
+
+.student-overview-item {
     border: 1px solid black;
-    background-color: lightblue;
-    
+    width: 100%;
+    text-align: center;
+}
+
+.student-container {
+    display: flex;
+}
+
+.student-photo {
+    max-height: 200px;
+}
+
+.student-item {
+    height: 200px;
+    width: 300px;
+    border: 1px solid black;
+    text-align: center;
 }

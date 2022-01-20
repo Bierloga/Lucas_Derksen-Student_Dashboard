@@ -7,12 +7,11 @@ const CreateAverageArray = () => {
     assignmentArray.forEach(item => {
         const newItem = {
             assignment: item,
-            averageFun: AveragePerAssignment(item, "fun"),
-            averageDifficulty: AveragePerAssignment(item, "difficulty")
+            fun: AveragePerAssignment(item, "fun"),
+            difficulty: AveragePerAssignment(item, "difficulty")
         }
         newArray.push(newItem)
     })
-    console.log(newArray)
     return (newArray);
 }
 
