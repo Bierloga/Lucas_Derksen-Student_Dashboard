@@ -40,7 +40,8 @@ const MainChart = (props) => {
                             tickLabels: { fontSize: 8 },
                             grid: { stroke: "#818e99", strokeWidth: 0.5 }
                         }}
-                        domain={[0, 5]}
+                        domain={[0, 6]}
+                        tickValues={[0,1,2,3,4,5]}
                     />
                     <VictoryLegend
                         centerTitle
@@ -98,7 +99,8 @@ const MainChart = (props) => {
                             tickLabels: { fontSize: 8 },
                             grid: { stroke: "#818e99", strokeWidth: 0.5 }
                         }}
-                        domain={[0, 5]}
+                        domain={[0, 6]}
+                        tickValues={[0,1,2,3,4,5]}
                     />
                     <VictoryLegend
                         centerTitle
@@ -122,7 +124,7 @@ const MainChart = (props) => {
                             barWidth={8}
                             cornerRadius={4}
                         />}
-                        { showDif && <VictoryBar
+                        {showDif && <VictoryBar
                             data={props.secondHalf}
                             x="assignment"
                             y="difficulty"
