@@ -1,33 +1,243 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat');
+
 * {
     padding: 0;
     margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header-container {
+    height: 150px;
+    background-color: #2b6777;
+    color: #ffffff;
+    display: grid;
+    grid-template-columns: 50% 25% 25%;
+    justify-items: center;
+    align-items: center;
+}
+
+.header-container div {
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.header-container div:hover a {
+    font-size: 40px;
+}
+
+.header-container a {
+    color: #2b6777;
+    font-size: 30px;
+    text-decoration: none;
+    padding: 30px;
+}
+
+.main-container {
+    background-color: #c8d8e4;
+    padding-bottom: 50px;
+}
+
+.remove-btns {
+    text-align: center;
+    color: #2b6777;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 40px;
+}
+
+.remove-btns label {
+padding: 20px 0px 20px 20px;
+}
+
+.student {
+    background-color: #c8d8e4;
+    padding-top: 40px;
 }
 
 .student-overview-container {
-    margin: 50px;
+    margin: 20px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    grid-gap: 30px;
+    grid-gap: 20px;
     justify-items: center;
 }
 
 .student-overview-item {
-    border: 1px solid black;
+    border: 1px solid #2b6777;
+    font-size: 16px;
     width: 100%;
+    height: 100px;
     text-align: center;
+    background-color: #2b6777;
+    justify-self: center;
+    align-self: center;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.student-overview-item a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.student-overview-item h2 {
+    padding-top: 10px;
+}
+
+.student-overview-item:hover {
+    border: 5px solid #52ab98;
+}
+
+.student-overview {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.student-overview h1{
+    color: #2b6777;
+    font-size: 30px;
 }
 
 .student-container {
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    margin: 0px 30% 0px 30%;
+    background-color: #2b6777;
+    border: 1px solid white;
+    border-radius: 10px;
 }
 
 .student-photo {
     max-height: 200px;
+    margin-top: 20px;
+    border: 1px solid black;
 }
 
 .student-item {
-    height: 200px;
+    height: 240px;
     width: 300px;
-    border: 1px solid black;
+    justify-self: center;
+    align-self: center;
     text-align: center;
+    color: #ffffff;
+}
+
+.student-item h1 {
+    padding-top: 60px;
+}
+
+.sidebar {
+    width: 200px;
+    height: 300px;
+    background-color: #52ab98;
+    position: fixed;
+    right: -170px;
+    top: 35%;
+    transition: ease-out, 500ms;
+    border: 3px solid #2b6777;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.sidebar a {
+    color: #52ab98;
+    text-decoration: none;
+}
+
+.sidebar:hover {
+    right: 0px;
+}
+
+.sidebar:hover a{
+    color: #ffffff;
+}
+
+#sidebar-sign {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    transform: translateY(-40px) translateX(-82px) rotate(90deg);
+}
+
+.sidebar:hover #sidebar-sign {
+    display: none;
+}
+
+.want-review {
+    font-size: 30px;
+    padding-top: 30px; 
+}
+
+.review-click {
+    font-size: 30px;
+}
+
+.slice-btn {
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+}
+
+.review-form-container {
+    background-color: #c8d8e4;
+    text-align: center;
+    padding-top: 30px;
+    color: #2b6777;
+    border-bottom: #2b6777 3px solid;
+}
+
+#name-input {
+    margin: 10px;
+}
+
+#email-input {
+    margin: 10px;
+}
+
+#review-input {
+    margin: 10px;
+}
+
+#submit-btn {
+    margin: 10px;
+}
+
+.review-main {
+    background-color: #c8d8e4;
+}
+
+.review-list-container {
+    background-color: #c8d8e4;
+    color: #2b6777;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+
+.review-list-container h2 {
+    padding-bottom: 30px;
+    font-weight: bold;
+}
+
+.review-list {
+    background-color: #2b6777;
+    list-style: none;
+    text-align: center;
+    padding: 10px;
+    color: #ffffff;
+    border-bottom: 2px solid #ffffff;
+    margin-left: 35%;
+    margin-right: 35%
+}
+
+.review-list p {
+    padding: 30px;
+}
+
+.email {
+    font-size: 15px;
+    font-weight: lighter;
 }

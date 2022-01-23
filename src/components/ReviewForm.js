@@ -7,17 +7,17 @@ const ReviewForm = () => {
     const [body, setBody] = useState('')
     const dispatch = useDispatch()
     return (
-        <div>
+        <div className="review-form-container">
             <h2>Add a review about this page!</h2>
             <div>
-                <form 
+                <form
                     onSubmit={(e) => {
                         e.preventDefault()
                         dispatch({ type: 'ADD_REVIEW', payload: { name: name, email: email, body: body } })
                         setName("")
                         setEmail("")
                         setBody("")
-                        }
+                    }
                     }>
                     <label>Name:</label>
                     <input
@@ -27,8 +27,8 @@ const ReviewForm = () => {
                         value={name}
                         placeholder="Name"
                         onChange={(e) => setName(e.target.value)}
-                    />
-                    <label>Email</label>
+                    /><br></br>
+                    <label>Email:</label>
                     <input
                         type="email"
                         id="email-input"
@@ -36,16 +36,19 @@ const ReviewForm = () => {
                         value={email}
                         placeholder="Email"
                         onChange={(e) => setEmail(e.target.value)}
-                    />
+                    /><br></br>
                     <textarea
                         placeholder="Write your review here"
+                        rows="8"
+                        cols="50"
                         id="review-input"
                         required
                         value={body}
-                        onChange={(e) => setBody(e.target.value)}></textarea>
+                        onChange={(e) => setBody(e.target.value)}></textarea><br></br>
                     <button
                         type="submit"
-                        >Add Review!
+                        id="submit-btn"
+                    >Add Review!
                     </button>
                 </form>
             </div>

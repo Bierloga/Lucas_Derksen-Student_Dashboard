@@ -18,7 +18,7 @@ const StudentOverview = () => {
         )
     })
     return (
-        <div>
+        <div className="student-overview">
             <h1>Studenten:</h1>
             <div className="student-overview-container">
                 {StudentList}

@@ -4,7 +4,7 @@ import ReviewList from "./ReviewList";
 
 const Reviews = () => {
     return ( 
-        <div>
+        <div className="review-main">
             <ReviewForm />
             <ReviewList />
         </div>

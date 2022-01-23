@@ -10,7 +10,7 @@ const Main = () => {
     const firstHalf = rawData.splice(0, half)
     const secondHalf = rawData.splice(-half)
     return (
-        <div>
+        <div className="main-container">
             <StudentOverview />
             <MainChart firstHalf={firstHalf} secondHalf={secondHalf} />
             <Sidebar />

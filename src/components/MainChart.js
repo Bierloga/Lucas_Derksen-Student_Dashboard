@@ -13,23 +13,40 @@ const MainChart = (props) => {
     secondHalfTick.push("")
     return (
         <div>
-            <div>
-                <label>Remove Fun?</label><input type="checkbox" name="showFun" onChange={() => setShowFun(showFun => !showFun)}></input>
-                <label>Remove Difficulty?</label><input type="checkbox" name="showDif" onChange={() => setShowDif(showDif => !showDif)}></input>
+            <div className="remove-btns">
+                <label for="slice-fun">Show Fun</label>
+                <input
+                    className="slice-btn"
+                    id="slice-fun"
+                    type="checkbox"
+                    checked={showFun}
+                    name="showFun"
+                    onChange={() => setShowFun(showFun => !showFun)}>
+                </input>
+                <label for="slice-dif">Show Difficulty</label>
+                <input
+                    className="slice-btn"
+                    id="slice-dif"
+                    type="checkbox"
+                    checked={showDif}
+                    name="showDif"
+                    onChange={() =>setShowDif(showDif => !showDif)
+                    }>
+                </input>
             </div>
             <div className="testing">
                 <VictoryChart
                     height={250}
                     width={800}
                     animate={{ duration: 1000, onLoad: { duration: 250 } }}
-                    style={{ background: { fill: "lightblue" } }}
+                    style={{ background: { fill: '#f2f2f2' } }}
                 >
                     <VictoryAxis
                         label="Assignments"
                         style={{
-                            tickLabels: { angle: -60, fontSize: 8, padding: 15 },
+                            tickLabels: { angle: -60, fontSize: 8, padding: 15, fill: '#2b6777' },
                             grid: { stroke: "#818e99", strokeWidth: 0.5 },
-                            axisLabel: { padding: 30 }
+                            axisLabel: { padding: 30, fill: '#2b6777' }
                         }}
                         tickValues={firsthalfTick}
                     />
@@ -37,17 +54,18 @@ const MainChart = (props) => {
                         dependentAxis
                         label="Rating 0-5"
                         style={{
-                            tickLabels: { fontSize: 8 },
+                            axisLabel: { fill: '#2b6777' },
+                            tickLabels: { fontSize: 8, fill: '#2b6777' },
                             grid: { stroke: "#818e99", strokeWidth: 0.5 }
                         }}
                         domain={[0, 6]}
-                        tickValues={[0,1,2,3,4,5]}
+                        tickValues={[0, 1, 2, 3, 4, 5]}
                     />
                     <VictoryLegend
                         centerTitle
                         data={[
-                            { name: "Fun", symbol: { fill: "darkblue" } },
-                            { name: "Difficulty", symbol: { fill: "orange" } }
+                            { name: "Fun", symbol: { fill: '#2b6777' }, labels: { fill: "#2b6777" } },
+                            { name: "Difficulty", symbol: { fill: '#52ab98' }, labels: { fill: "#2b6777" } }
                         ]}
                         orientation="horizontal"
                         x={300}
@@ -61,7 +79,7 @@ const MainChart = (props) => {
                             data={props.firstHalf}
                             x="assignment"
                             y="fun"
-                            style={{ data: { fill: "darkblue" } }}
+                            style={{ data: { fill: '#2b6777' } }}
                             alignment="start"
                             barWidth={8}
                             cornerRadius={4}
@@ -70,7 +88,7 @@ const MainChart = (props) => {
                             data={props.firstHalf}
                             x="assignment"
                             y="difficulty"
-                            style={{ data: { fill: "orange" } }}
+                            style={{ data: { fill: '#52ab98' } }}
                             alignment="start"
                             barWidth={8}
                             cornerRadius={4} />}
@@ -81,14 +99,14 @@ const MainChart = (props) => {
                     height={250}
                     width={800}
                     animate={{ duration: 1000, onLoad: { duration: 250 } }}
-                    style={{ background: { fill: "lightblue" } }}
+                    style={{ background: { fill: '#f2f2f2' } }}
                 >
                     <VictoryAxis
                         label="Assignments"
                         style={{
-                            tickLabels: { angle: -60, fontSize: 8, padding: 15 },
+                            axisLabel: { fill: '#2b6777', padding: 30 },
+                            tickLabels: { angle: -60, fontSize: 8, padding: 15, fill: '#2b6777' },
                             grid: { stroke: "#818e99", strokeWidth: 0.5 },
-                            axisLabel: { padding: 30 }
                         }}
                         tickValues={secondHalfTick}
                     />
@@ -96,17 +114,18 @@ const MainChart = (props) => {
                         dependentAxis
                         label="Rating 0-5"
                         style={{
-                            tickLabels: { fontSize: 8 },
+                            axisLabel: { fill: '#2b6777' },
+                            tickLabels: { fontSize: 8, fill: "#2b6777" },
                             grid: { stroke: "#818e99", strokeWidth: 0.5 }
                         }}
                         domain={[0, 6]}
-                        tickValues={[0,1,2,3,4,5]}
+                        tickValues={[0, 1, 2, 3, 4, 5]}
                     />
                     <VictoryLegend
                         centerTitle
                         data={[
-                            { name: "Fun", symbol: { fill: "darkblue" } },
-                            { name: "Difficulty", symbol: { fill: "orange" } }
+                            { name: "Fun", symbol: { fill: '#2b6777' }, labels: { fill: "#2b6777" } },
+                            { name: "Difficulty", symbol: { fill: '#52ab98' }, labels: { fill: "#2b6777" } }
                         ]}
                         orientation="horizontal"
                         x={300}
@@ -119,7 +138,7 @@ const MainChart = (props) => {
                             data={props.secondHalf}
                             x="assignment"
                             y="fun"
-                            style={{ data: { fill: "darkblue" } }}
+                            style={{ data: { fill: '#2b6777' } }}
                             alignment="start"
                             barWidth={8}
                             cornerRadius={4}
@@ -128,7 +147,7 @@ const MainChart = (props) => {
                             data={props.secondHalf}
                             x="assignment"
                             y="difficulty"
-                            style={{ data: { fill: "orange" } }}
+                            style={{ data: { fill: '#52ab98' } }}
                             alignment="start"
                             barWidth={8}
                             cornerRadius={4} />}
