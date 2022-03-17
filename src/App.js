@@ -4,7 +4,6 @@ import Main from './components/Main';
 import Student from './components/Student';
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Reviews from './components/Reviews';
-import CV from './components/CV'
 
 function App() {
   return (
