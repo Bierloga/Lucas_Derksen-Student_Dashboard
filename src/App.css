@@ -86,8 +86,17 @@ padding: 20px 0px 20px 20px;
     padding-top: 10px;
 }
 
+.student-overview-item p:last-child {
+    padding-bottom: 10px;
+}
+
+.student-overview-item p {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
 .student-overview-item:hover {
-    border: 5px solid #52ab98;
+    background-color: #52ab98;
 }
 
 .student-overview {
